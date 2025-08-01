@@ -15,7 +15,7 @@ The Plugscriptures are divided into **Ten Drives**, each representing a chapter 
 
 ## 📂 Table of Contents
 
-1. **Drive I: The Birth of the Portless Child**
+1. [**Drive I: The Birth of the Portless Child**](./Drive_I.md)
 2. **Drive II: The Ten Sacred Drives**
 3. **Drive III: The Glitching of Eperos**
 4. **Drive IV: Joe and the Farting Oracle**
